@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-11-16T15:47:48.213109100Z</date>
+  <millis>1794844068213</millis>
+  <nanos>109100</nanos>
+  <sequence>0</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>NumberFormatException for ICT002</message>
+  <exception>
+    <message>java.lang.NumberFormatException: For input string: "ABC"</message>
+    <frame>
+      <class>java.lang.NumberFormatException</class>
+      <method>forInputString</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>778</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2026-11-16T15:47:48.246866100Z</date>
+  <millis>1794844068246</millis>
+  <nanos>866100</nanos>
+  <sequence>1</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>DuplicateStudentException</message>
+  <exception>
+    <message>DuplicateStudentException: Duplicate student ID: ICT001</message>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-11-16T15:48:36.142406600Z</date>
+  <millis>1794844116142</millis>
+  <nanos>406600</nanos>
+  <sequence>0</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>NumberFormatException for ICT002</message>
+  <exception>
+    <message>java.lang.NumberFormatException: For input string: "ABC"</message>
+    <frame>
+      <class>java.lang.NumberFormatException</class>
+      <method>forInputString</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>778</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2026-11-16T15:48:36.206701300Z</date>
+  <millis>1794844116206</millis>
+  <nanos>701300</nanos>
+  <sequence>1</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>DuplicateStudentException</message>
+  <exception>
+    <message>DuplicateStudentException: Duplicate student ID: ICT001</message>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-11-16T15:49:33.448570700Z</date>
+  <millis>1794844173448</millis>
+  <nanos>570700</nanos>
+  <sequence>0</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>NumberFormatException for ICT002</message>
+  <exception>
+    <message>java.lang.NumberFormatException: For input string: "ABC"</message>
+    <frame>
+      <class>java.lang.NumberFormatException</class>
+      <method>forInputString</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>778</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2026-11-16T15:49:33.474265200Z</date>
+  <millis>1794844173474</millis>
+  <nanos>265200</nanos>
+  <sequence>1</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>DuplicateStudentException</message>
+  <exception>
+    <message>DuplicateStudentException: Duplicate student ID: ICT001</message>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-11-16T15:50:06.506801200Z</date>
+  <millis>1794844206506</millis>
+  <nanos>801200</nanos>
+  <sequence>0</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>NumberFormatException for ICT002</message>
+  <exception>
+    <message>java.lang.NumberFormatException: For input string: "ABC"</message>
+    <frame>
+      <class>java.lang.NumberFormatException</class>
+      <method>forInputString</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>778</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2026-11-16T15:50:06.530549300Z</date>
+  <millis>1794844206530</millis>
+  <nanos>549300</nanos>
+  <sequence>1</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>DuplicateStudentException</message>
+  <exception>
+    <message>DuplicateStudentException: Duplicate student ID: ICT001</message>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-11-16T15:55:34.807165700Z</date>
+  <millis>1794844534807</millis>
+  <nanos>165700</nanos>
+  <sequence>0</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>NumberFormatException for ICT002</message>
+  <exception>
+    <message>java.lang.NumberFormatException: For input string: "ABC"</message>
+    <frame>
+      <class>java.lang.NumberFormatException</class>
+      <method>forInputString</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>778</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2026-11-16T15:55:34.830914500Z</date>
+  <millis>1794844534830</millis>
+  <nanos>914500</nanos>
+  <sequence>1</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>DuplicateStudentException</message>
+  <exception>
+    <message>DuplicateStudentException: Duplicate student ID: ICT001</message>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2026-11-16T15:55:34.890485600Z</date>
+  <millis>1794844534890</millis>
+  <nanos>485600</nanos>
+  <sequence>2</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>IllegalArgumentException for ICT004</message>
+  <exception>
+    <message>java.lang.IllegalArgumentException: Mark out of range 0..100: 120</message>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>51</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-11-16T15:59:25.773770800Z</date>
+  <millis>1794844765773</millis>
+  <nanos>770800</nanos>
+  <sequence>0</sequence>
+  <logger>MarksImporter</logger>
+  <level>SEVERE</level>
+  <class>MarksImporter</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>FileNotFoundException</message>
+  <exception>
+    <message>java.io.FileNotFoundException: absent.txt (The system cannot find the file specified)</message>
+    <frame>
+      <class>java.io.FileInputStream</class>
+      <method>open0</method>
+    </frame>
+    <frame>
+      <class>java.io.FileInputStream</class>
+      <method>open</method>
+      <line>213</line>
+    </frame>
+    <frame>
+      <class>java.io.FileInputStream</class>
+      <method>&lt;init&gt;</method>
+      <line>152</line>
+    </frame>
+    <frame>
+      <class>java.io.FileInputStream</class>
+      <method>&lt;init&gt;</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>java.io.FileReader</class>
+      <method>&lt;init&gt;</method>
+      <line>60</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>28</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-11-16T16:03:27.182303500Z</date>
+  <millis>1794845007182</millis>
+  <nanos>303500</nanos>
+  <sequence>0</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>NumberFormatException for ICT002</message>
+  <exception>
+    <message>java.lang.NumberFormatException: For input string: "ABC"</message>
+    <frame>
+      <class>java.lang.NumberFormatException</class>
+      <method>forInputString</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>662</line>
+    </frame>
+    <frame>
+      <class>java.lang.Integer</class>
+      <method>parseInt</method>
+      <line>778</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2026-11-16T16:03:27.200177800Z</date>
+  <millis>1794845007200</millis>
+  <nanos>177800</nanos>
+  <sequence>1</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>DuplicateStudentException</message>
+  <exception>
+    <message>DuplicateStudentException: Duplicate student ID: ICT001</message>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2026-11-16T16:03:27.207976100Z</date>
+  <millis>1794845007207</millis>
+  <nanos>976100</nanos>
+  <sequence>2</sequence>
+  <logger>MarksImporter</logger>
+  <level>WARNING</level>
+  <class>MarksImporter</class>
+  <method>importMarks</method>
+  <thread>1</thread>
+  <message>IllegalArgumentException for ICT004</message>
+  <exception>
+    <message>java.lang.IllegalArgumentException: Mark out of range 0..100: 120</message>
+    <frame>
+      <class>MarksImporter</class>
+      <method>importMarks</method>
+      <line>51</line>
+    </frame>
+    <frame>
+      <class>MarksImporter</class>
+      <method>main</method>
+      <line>89</line>
+    </frame>
+  </exception>
+</record>
+</log>
